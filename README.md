@@ -70,10 +70,10 @@ This project analyses the sentiments of the user's tweets and classifies them as
 
 <img width="566" alt="image" src="https://github.com/shravaniguchhait17/Sentiment-Analysis-For-Social-Media/assets/84240264/c16d56bd-92ab-4e73-b8fe-85b7073234b1">
 
-**Applying ML Models:**
-**Logistic Regression**
+**Applying Logistic Regression ML Model:**
+
 **Results after prediction:
-For a negative label : 1
+For a negative label : 1,
 For a positive label : 0**
 
 <img width="145" alt="image" src="https://github.com/shravaniguchhait17/Sentiment-Analysis-For-Social-Media/assets/84240264/57b9be26-eacc-4762-8bfb-03116a628c13">
