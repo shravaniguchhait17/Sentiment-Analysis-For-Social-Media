@@ -42,14 +42,38 @@ This project analyses the sentiments of the user's tweets and classifies them as
 
 <img width="199" alt="image" src="https://github.com/shravaniguchhait17/Sentiment-Analysis-For-Social-Media/assets/84240264/c2a8e852-2001-4cae-a454-36978c7e4cfc">
 
+**Positive word frequency:**
 
+<img width="877" alt="image" src="https://github.com/shravaniguchhait17/Sentiment-Analysis-For-Social-Media/assets/84240264/0cdec18b-f96a-4730-a637-fa182a774b7d">
 
+**Creating a dataset of the most frequent words:**
 
+<img width="177" alt="image" src="https://github.com/shravaniguchhait17/Sentiment-Analysis-For-Social-Media/assets/84240264/0ce05d12-f456-432e-9c77-ef7a7acfc2ee">
 
+**Plotting the bar plot for 20 most frequent words:**
 
+<img width="530" alt="image" src="https://github.com/shravaniguchhait17/Sentiment-Analysis-For-Social-Media/assets/84240264/d7e40479-b4ad-4587-b943-18a8037e6e46">
 
+**Negative Word Frequency:**
 
+<img width="885" alt="image" src="https://github.com/shravaniguchhait17/Sentiment-Analysis-For-Social-Media/assets/84240264/19bc3689-5bb8-41ee-8046-8e6f7f3be87c">
 
+**Creating a dataset of the most frequent words:**
 
+<img width="195" alt="image" src="https://github.com/shravaniguchhait17/Sentiment-Analysis-For-Social-Media/assets/84240264/625c82e3-4b2d-417f-a16c-69c8de2595d1">
 
+**Plotting the bar plot for the 20 most frequent negative words:**
 
+<img width="491" alt="image" src="https://github.com/shravaniguchhait17/Sentiment-Analysis-For-Social-Media/assets/84240264/5dfec5d1-b9ee-42c9-8a2c-7eeb3136f44b">
+
+**Feature Extraction from Cleaned Tweets using CountVectorizer (converting text data into numerical format for machine learning tasks):**
+
+<img width="566" alt="image" src="https://github.com/shravaniguchhait17/Sentiment-Analysis-For-Social-Media/assets/84240264/c16d56bd-92ab-4e73-b8fe-85b7073234b1">
+
+**Applying ML Models:**
+**Logistic Regression**
+**Results after prediction:
+For a negative label : 1
+For a positive label : 0**
+
+<img width="145" alt="image" src="https://github.com/shravaniguchhait17/Sentiment-Analysis-For-Social-Media/assets/84240264/57b9be26-eacc-4762-8bfb-03116a628c13">
